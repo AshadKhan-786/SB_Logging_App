@@ -10,4 +10,10 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 	}
 
+	// AAA-102
+	public void m2() {
+		int z = 20;
+		// logic completed
+	}
+
 }
